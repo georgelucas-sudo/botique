@@ -1,0 +1,45 @@
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\bin\Debug\Botique.exe.config
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.vbprojResolveAssemblyReference.cache
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.Botique.resources
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.Resources.resources
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.vbproj.GenerateResource.Cache
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.xml
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\bin\Debug\Botique.exe
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\bin\Debug\Botique.pdb
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\bin\Debug\Botique.xml
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.exe
+c:\users\black roses\documents\visual studio 2015\Projects\Botique\Botique\obj\Debug\Botique.pdb
+D:\Botique\Botique\bin\Debug\Botique.exe.config
+D:\Botique\Botique\obj\Debug\Botique.exe
+D:\Botique\Botique\obj\Debug\Botique.xml
+D:\Botique\Botique\obj\Debug\Botique.pdb
+D:\Botique\Botique\bin\Debug\Botique.exe
+D:\Botique\Botique\bin\Debug\Botique.pdb
+D:\Botique\Botique\bin\Debug\Botique.xml
+D:\Botique\Botique\obj\Debug\Botique.vbprojResolveAssemblyReference.cache
+D:\Botique\Botique\obj\Debug\Botique.Botique.resources
+D:\Botique\Botique\obj\Debug\Botique.Resources.resources
+D:\Botique\Botique\obj\Debug\Botique.vbproj.GenerateResource.Cache
+G:\Botique\Botique\bin\Debug\Botique.exe.config
+G:\Botique\Botique\bin\Debug\Botique.exe
+G:\Botique\Botique\bin\Debug\Botique.pdb
+G:\Botique\Botique\bin\Debug\Botique.xml
+G:\Botique\Botique\obj\Debug\Botique.vbprojAssemblyReference.cache
+G:\Botique\Botique\obj\Debug\Botique.Botique.resources
+G:\Botique\Botique\obj\Debug\Botique.Resources.resources
+G:\Botique\Botique\obj\Debug\Botique.vbproj.GenerateResource.cache
+G:\Botique\Botique\obj\Debug\Botique.vbproj.CoreCompileInputs.cache
+G:\Botique\Botique\obj\Debug\Botique.exe
+G:\Botique\Botique\obj\Debug\Botique.xml
+G:\Botique\Botique\obj\Debug\Botique.pdb
+F:\Botique\Botique\bin\Debug\Botique.exe.config
+F:\Botique\Botique\obj\Debug\Botique.exe
+F:\Botique\Botique\obj\Debug\Botique.xml
+F:\Botique\Botique\obj\Debug\Botique.pdb
+F:\Botique\Botique\bin\Debug\Botique.exe
+F:\Botique\Botique\bin\Debug\Botique.pdb
+F:\Botique\Botique\bin\Debug\Botique.xml
+F:\Botique\Botique\obj\Debug\Botique.vbprojResolveAssemblyReference.cache
+F:\Botique\Botique\obj\Debug\Botique.Botique.resources
+F:\Botique\Botique\obj\Debug\Botique.Resources.resources
+F:\Botique\Botique\obj\Debug\Botique.vbproj.GenerateResource.Cache
